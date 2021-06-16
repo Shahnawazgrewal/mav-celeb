@@ -1,2 +1,2 @@
 # mav-celeb
-repo for Cross-modal Speaker Verification and Recognition: ​  A Multilingual Perspective​
+This repository contains dataset for our paper "Cross-modal Speaker Verification and Recognition: A Multilingual Perspective".
